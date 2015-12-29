@@ -1,0 +1,21 @@
+Festive Cursor Trail WordPress Plugin is developed to decorate your blog with new cursor trail. Most of the bloggers or non bloggers wants to decorate their blog on festive season like New Year, Christmas, Halloween, Diwali, Holi, Eid..etc. They may use this plugin for decoration, It also provide option of Share Social Media buttons and Decorative Lights.
+Belongs to any country, this plugin doesn't separate the peoples, just type your text to show trail on mouse, Enable disable plugin for your blog.
+
+    Copyright (C) 2015  Akestech Infotech
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Festive Cursor Trail Copyright (C) 2015 Akestech Infotech
+    This program comes with ABSOLUTELY NO WARRANTY; for details open readme.txt for further information regarding Festive Cursor Trail.
+This is free software, and you are welcome to redistribute it under certain conditions.
